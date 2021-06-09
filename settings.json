@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "module.h": "c",
+        "init.h": "c",
+        "*.tcc": "c",
+        "cache.h": "c",
+        "compiler.h": "c",
+        "compiler-gcc.h": "c",
+        "scull.h": "c",
+        "cdev.h": "c",
+        "types.h": "c",
+        "posix_types.h": "c"
+    }
+}
